@@ -3,7 +3,7 @@
 ## 📌 Overview
 A Chrome Extension built using Manifest V3 that extracts Contacts, Deals, and Tasks from a live HubSpot CRM page using DOM scraping and displays them in a React-based popup dashboard.
 
-> ⚠️ No HubSpot APIs are used. Extraction is done purely from visible DOM as per assignment instructions.
+> ⚠️ No HubSpot APIs are used. Extraction is done purely from visible DOM.
 
 ---
 
@@ -35,7 +35,7 @@ A Chrome Extension built using Manifest V3 that extracts Contacts, Deals, and Ta
    npm install
    npm run build
 3. Open Chrome → Extensions → Load Unpacked
-4.Select project root folder
+4. Select project root folder
 
 🧪 How It Works
 
