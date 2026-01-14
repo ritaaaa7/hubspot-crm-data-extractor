@@ -1,0 +1,30 @@
+# Node / Vite
+node_modules/
+dist/
+ui/dist/
+
+# Build artifacts
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor configs
+.vscode/
+.idea/
+
+# Chrome Extension
+*.crx
+*.pem
+
+# Cache
+.cache/
